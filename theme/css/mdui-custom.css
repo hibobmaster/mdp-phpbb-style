@@ -294,6 +294,10 @@ div#abbc3_buttons {
     margin: 0 0 2px;
 }
 
+.postbody h3 img {
+    vertical-align: unset;
+}
+
 @media (max-width: 600px) {
     div.index-left > div.forabg-index-left  {
         border-top-left-radius: 0;
