@@ -5,7 +5,7 @@ The style is still working in progress. <br>
 
 ### Tips:
 
-I add some extra classes for the following extensions:
+I add some extra classes for the following extensions, you may add it yourself:
 - recentopic -> recent_topics_body_side.html, recenttopics.css 
 - boardannoucement -> overall_header_content_before.html
 - similartopics -> similar_topics_32x.html
