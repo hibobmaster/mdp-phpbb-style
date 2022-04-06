@@ -298,6 +298,17 @@ div#abbc3_buttons {
     vertical-align: unset;
 }
 
+dl.bg-y-15-percent {
+    background-position-y: 15%;
+}
+
+
+@media (max-width: 900px) {
+    dl.row-item {
+        background-position-y: 15%;
+    }
+}
+
 @media (max-width: 600px) {
     div.index-left > div.forabg-index-left  {
         border-top-left-radius: 0;
