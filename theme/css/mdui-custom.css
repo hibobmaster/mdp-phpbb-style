@@ -302,6 +302,9 @@ dl.bg-y-15-percent {
     background-position-y: 15%;
 }
 
+.postbody h3 {
+    float: unset;
+}
 
 @media (max-width: 900px) {
     dl.row-item {
