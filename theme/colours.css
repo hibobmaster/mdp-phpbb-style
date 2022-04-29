@@ -50,12 +50,12 @@ a:hover { color: #D31141; }
 
 /* Post body links */
 .postlink {
-	border-bottom-color: #368AD2;
+	/* border-bottom-color: #368AD2; */
 	color: #368AD2;
 }
 
 .postlink:visited {
-	border-bottom-color: #5D8FBD;
+	/* border-bottom-color: #5D8FBD; */
 	color: #5D8FBD;
 }
 
